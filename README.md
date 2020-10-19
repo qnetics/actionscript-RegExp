@@ -3,4 +3,4 @@ RegExp (regular expression) adalah pola yang mendeskripsikan kumpulan kemungkina
 Dalam ActionScript, pola RegExp ditulis dalam dua karakter garis miring "/" (/ regexp /).
 Untuk memulai, mari kita lihat beberapa pola sederhana
 
-- contoh regexp : / s [ak] y / dapat membentuk kata-kata kosong: "say and sky" (ekspresi ditambahkan dalam tanda kurung siku "[ak]", disebut class pattern)
+- contoh regexp : / s [ak] y / dapat membentuk kata-kata kosong: "say and sky" (ekspresi ditambahkan dalam tanda kurung siku "[ak]", disebut **class pattern)
