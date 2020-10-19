@@ -13,3 +13,15 @@ Untuk memulai, mari kita lihat beberapa pola sederhana
 
 **Untuk mencocokkan sejumlah karakter, letakkan kuantitas di antara tanda kurung kurawal, tambahkan jumlah minimum dan maksimum karakter yang diperbolehkan.**
 - Misalnya regexp: **/[aeiou]{2,4}/**, cocok dengan string apa pun yang hanya berisi vokal dan memiliki 2, 3, atau 4 karakter ("ai", "oue", "auio", dll.).
+
+
+
+
+
+
+
+
+
+
+
+terusin besok wkwkwk (mlz)
